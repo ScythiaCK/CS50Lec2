@@ -1,1 +1,2 @@
-print("hello, world!")
+MyName = str(raw_input("What's your name?"))
+print(MyName)
