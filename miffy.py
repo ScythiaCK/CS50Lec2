@@ -1,3 +1,3 @@
 MyName = "miffy is crazy"
-print(MyName[3])
-print(MyName[3:9])
+print(MyName[1], end="")
+print(MyName[2])
