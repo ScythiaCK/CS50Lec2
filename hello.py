@@ -1,2 +1,2 @@
-MyName = str(raw_input("What's your name?"))
+MyName = raw_input("What's your name?")
 print(MyName)
